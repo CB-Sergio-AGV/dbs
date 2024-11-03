@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Limpieza",
+      "status": "Activo"
+    },
+    {
+      "id": 2,
+      "name": "Productos Higiénicos",
+      "status": "Activo"
+    },
+    {
+      "id": 3,
+      "name": "Desechos",
+      "status": "Inactivo"
+    },
+    {
+      "name": "asda",
+      "status": "Activo",
+      "id": 4
+    },
+    {
+      "name": "sadas",
+      "status": "Activo",
+      "id": 5
+    }
+  ]
+}
